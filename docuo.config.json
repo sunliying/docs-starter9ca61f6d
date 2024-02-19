@@ -428,6 +428,26 @@
         },{
           "logo": "X",
           "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/logo.png",
+          "href": "https://example.com/11"
+        },
+        {
+          "logo": "image/2.svg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/kuan.jpg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/xxx.jpeg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "https://www.markdown.xyz/assets/images/tux.png",
+          "href": "https://www.baidu.com"
         }
       ]
     }
