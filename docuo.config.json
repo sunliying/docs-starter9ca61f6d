@@ -11,9 +11,9 @@
   ],
   "search": {
     "algolia": {
-        "appId": "24083JW88L",
-        "apiKey": "5ec85b3104c941999985d4f528b6376b",
-        "indexName": "sunlyproject1-hdh34-spreading"
+        "appId": "JKHPLZ45Z2",
+        "apiKey": "fffd9687352004cef0796aa4d05ecb12",
+        "indexName": "sunly0123022-spreading"
     }
   },
   "themeConfig": {
@@ -412,26 +412,6 @@
         {
           "logo": "Discord",
           "href": "https://example.com/social2"
-        },
-        {
-          "logo": "image/logo.png",
-          "href": "https://example.com/11"
-        },
-        {
-          "logo": "image/2.svg",
-          "href": "https://www.baidu.com"
-        },
-        {
-          "logo": "image/kuan.jpg",
-          "href": "https://www.baidu.com"
-        },
-        {
-          "logo": "image/xxx.jpeg",
-          "href": "https://www.baidu.com"
-        },
-        {
-          "logo": "https://www.markdown.xyz/assets/images/tux.png",
-          "href": "https://www.baidu.com"
         }
       ]
     }
