@@ -425,6 +425,9 @@
         {
           "logo": "Discord",
           "href": "https://example.com/social2"
+        },{
+          "logo": "X",
+          "href": "https://www.baidu.com"
         }
       ]
     }
