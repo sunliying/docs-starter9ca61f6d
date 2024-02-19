@@ -7,13 +7,19 @@
       "label": "docs",
       "path": "docs",
       "routeBasePath": "sunliying"
+    },
+    {
+      "id": "web",
+      "label": "web",
+      "path": "web_docs",
+      "routeBasePath": "web"
     }
   ],
   "search": {
     "algolia": {
-        "appId": "JKHPLZ45Z2",
-        "apiKey": "fffd9687352004cef0796aa4d05ecb12",
-        "indexName": "sunly0123022-spreading"
+      "appId": "JKHPLZ45Z2",
+      "apiKey": "fffd9687352004cef0796aa4d05ecb12",
+      "indexName": "sunly0123022-spreading"
     }
   },
   "themeConfig": {
