@@ -23,6 +23,13 @@
       "iconRedirectUrl": "https://console.zegocloud.com",
       "items": [
         {
+          "type": "docsInstanceDropdown"
+        },
+        {
+          "type": "docsVersionDropdown",
+          "docsInstanceId": "web"
+        },
+        {
           "type": "default",
           "href": "https://app.spreading.ai",
           "label": "Blog1"
